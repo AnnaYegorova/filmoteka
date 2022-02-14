@@ -4,13 +4,4 @@
  */
 
 // Стили для файла с примером HTML-фрагмента
-@import '../sass/base/common';
-@import '../sass/base/container';
-
-@import '../sass/utils/variables';
-
-@import './layout/footer';
-@import './layout/gallery';
-@import './layout/search_form';
-// @import './layout/my_search_form';
-@import './layout/header';
+@import './example';
